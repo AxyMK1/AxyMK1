@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working as Software Developer at nCircle Tech, Pune.
 - 🌱 I’m always learning something. 😉
-- ⚙️ I mostly work with C#, .NET, JavaScript, Node.js, PostgreSQL, Python.
+- ⚙️ I mostly work with C#, .NET, JavaScript, TypeScript, Node.js, PostgreSQL.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amkavade/). I am open for a job opportunity.
 
